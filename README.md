@@ -61,10 +61,7 @@ smart-fire-system/
 
 ## 📸 Prototype Images
 
-(Add images inside images folder)
+(Add )
 
 ---
 
-## 👨‍💻 Author
-
-Ahmed Elsayed
